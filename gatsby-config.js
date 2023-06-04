@@ -4,7 +4,7 @@ module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'https://yesux.github.io/',
+    siteUrl: 'https://yesux.github.io/running_page',
     logo: 'https://i.imgloc.com/2023/06/04/VCCMyq.png',
     description: "Suxiong's running site",
     navLinks: [
