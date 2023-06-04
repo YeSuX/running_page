@@ -4,17 +4,17 @@ module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'https://yihong.run',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-    description: 'Personal site and blog',
+    siteUrl: 'https://yesux.github.io/',
+    logo: 'https://i.imgloc.com/2023/06/04/VCCMyq.png',
+    description: "Suxiong's running site",
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://yihong.run/running',
+        url: 'https://yesux.github.io/',
       },
       {
-        name: 'About',
-        url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+        name: 'Github',
+        url: 'https://github.com/YeSuX',
       },
     ],
   },
